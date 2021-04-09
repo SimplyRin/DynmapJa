@@ -1,0 +1,7 @@
+main: net.simplyrin.dynmap.jawebregister.Main
+name: Dynmap-JaWebRegister
+version: for-3.1-457
+api-version: 1.13
+depend: ["dynmap"]
+commands:
+  webregister:
